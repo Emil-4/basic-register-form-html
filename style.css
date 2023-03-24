@@ -1,0 +1,26 @@
+.table1{
+    background-color: wheat;
+    height: 100px;
+    box-shadow: 2px 2px 3px; 
+}
+.table2{
+    background-color: rgb(180, 175, 168);
+    height: 100px;
+    box-shadow: 2px 2px 3px;
+}
+.table3{
+    background-color: thistle;
+    height: 100px;
+    box-shadow: 2px 2px 3px;
+}
+body{
+    font-size: x-large;
+    background-color: steelblue;
+}
+.table4{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    text-shadow: 2px 2px 3px;
+}
